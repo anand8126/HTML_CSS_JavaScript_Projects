@@ -1,0 +1,23 @@
+#calculator{
+    border: 1px solid cadetblue;
+    width: 200px;
+    border-radius: 4px;
+}
+
+#display{
+    width: 85%;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.button{
+    width: 45px;
+    height: 45px;
+    margin: 5px;
+}
